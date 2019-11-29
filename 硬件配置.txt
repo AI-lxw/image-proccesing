@@ -1,0 +1,5 @@
+处理器核数：4核
+内存:32GB
+GPU类型：NVIDIA GeForce GTX 1050
+操作系统：win10
+变成与体验：MATLAB2018a
